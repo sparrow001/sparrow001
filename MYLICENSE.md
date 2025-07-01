@@ -5,6 +5,7 @@ Copyright shall be retained by this individual for all works completed by said i
 In the case of volunteer work, this license stands as an additional clarification of already existing copyright law, which states most volunteer work done for an organization has its copyright held by the Volunteer, not the organization. 
 
 1. Definitions:
+
   "Contribution" shall mean any work of authorship, including
   the original version of the Work and any modifications or additions
   to that Work or Derivative Works thereof, that is intentionally
