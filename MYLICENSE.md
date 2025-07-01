@@ -1,6 +1,6 @@
 Copyright (c) 2025, Sparrow001
 
-Copyright shall be retained by this individual for all works completed by said invidiual, unless a separate copyright status is present due to copyright law or a physically written agreement. 
+Copyright shall be retained by this individual for all works completed by said invidiual, unless a separate copyright status is present due to copyright law or a physically written agreement. In other words, this is the default copyright/license unless a more specific one is agreed upon for a specific project.
 
 In the case of volunteer work, this license stands as an additional clarification of already existing copyright law, which states most volunteer work done for an organization has its copyright held by the Volunteer, not the organization. 
 
@@ -27,9 +27,11 @@ In the case of volunteer work, this license stands as an additional clarificatio
   "This individual" refers to Sparrow001.
   
   "Work" refers to any project, file, code, or any other thing authored by Sparrow001.
-  
+
+2. Demonstration of License
+  All works by this individual will automatically have this license. However, an explicit license may be written somewhere such as the package.json file in a project. The presence of the explicit line indicates that the work is owned by this individual and is subject to the terms of this agreement. The location of the work is irrelevant, and it may be housed in a personal or organizational repository, some other cloud medium, or even physical works.   
 3. Granting of License:
-  A license to use/display a work done by this individual shall automatically be granted to an organization upon publishing code intended for their use, provided that this individual is doing work as a volunteer for that organization. Otherwise, a license for other works such as personal projects must be manually granted by this individual. A license to use only applies to a singular work, and multiple must be granted if multiple works are desired. Derivative works, upon approval of this individual, shall automatically be granted a license to use the work.
+  A license to use/display a work done by this individual shall automatically be granted to an organization upon publishing code intended for their use, provided that this individual is doing work as a volunteer for that organization. Otherwise, a license for other works such as personal projects must be manually granted by this individual. A license to use only applies to a singular work, and multiple must be granted if multiple works are desired. Derivative works, upon approval of this individual, shall automatically be granted a license to use the work. 
 4. Execution and Revocation of License:
    This license shall apply to all works in the future and past. Organizations that use any past work shall automatically be granted a license to use, provided they meet the conditions above. A license may be revoked at any time. Upon revocation of a license, the individual or organization must delete any licensed works from their repositories, codebases, or any other medium of storage, as well as take down anything related to the work such as, but not limited to, resulting websites, mobile applications, desktop applications, or plugins. Upon revocation of a license to an individual with a derivative work, all works that have not recieved significant modifications (Complete replacement or uniquely different) must be removed in the same fashion as above.
 5. Redistribution and Contributions:
